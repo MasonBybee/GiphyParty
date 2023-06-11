@@ -1,0 +1,12 @@
+body {
+    background-color: #302f2f;
+}
+button {
+    color: white;
+}
+#searchBtn {
+    background-color: darkgray;
+}
+#removeImgBtn {
+    background-color: red;
+}
